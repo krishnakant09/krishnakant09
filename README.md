@@ -54,6 +54,12 @@ A full-stack web application designed to help manage queues efficiently for plac
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
 </a>
 
+
+
+<a href="https://www.instagram.com/cineverseby_kk/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" /> 
+</a>
+
 </p>
 
 ---
