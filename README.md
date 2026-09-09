@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm KrishnaKant Sharma 👋
 
-<!--
-**krishnakant09/krishnakant09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 2024–2028
+💻 Aspiring Software Developer
+🌐 Web Development Enthusiast
+☁️ Exploring AWS & Cloud Computing
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+• HTML • CSS • JavaScript
+• Node.js • Express.js
+• Java • C/C++ • Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+• Smart Queue Manager
+• DSA & Problem Solving
+• AWS & Cloud Computing
+
+📫 Connect with me on LinkedIn
