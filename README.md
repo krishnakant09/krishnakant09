@@ -42,7 +42,7 @@ A full-stack web application designed to help manage queues efficiently for plac
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/krishnakant09" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
