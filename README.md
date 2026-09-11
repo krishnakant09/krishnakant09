@@ -42,23 +42,11 @@ A full-stack web application designed to help manage queues efficiently for plac
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://github.com/krishnakant09" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
-</a>
-
- 
-
-<a href="mailto:sharma.kk9005@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40" />
-</a>
-
-
-
-<a href="https://www.instagram.com/cineverseby_kk/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" /> 
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kk.sharma9005@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@thephunnyboiis)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnakant-sharma09)
 
 </p>
 
